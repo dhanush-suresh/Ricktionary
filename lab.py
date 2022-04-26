@@ -1,1 +1,6 @@
-print("This is an horrible subject")
+print("The courses for this semeseter are:")
+print("DevOps")
+print("HPC")
+print("Career Skills")
+print("Communication skills")
+print("ADBMS")
